@@ -18,6 +18,9 @@ Essas questões exigiam organização e tratamento dos dados para garantir anál
 Os dados foram disponibilizados inicialmente em arquivos brutos.
 Eles foram **subidos para o banco de dados via Python**, garantindo que cada tabela ficasse disponível de forma padronizada, permitindo as etapas seguintes da arquitetura de dados.
 
+Tabelas e suas relações:
+![Modelo_Banco](Imagens/Modelo_Banco.png)
+
 ---
 
 ## 3. Arquitetura Medalhão
