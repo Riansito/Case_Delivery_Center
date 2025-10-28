@@ -19,7 +19,7 @@ Os dados foram disponibilizados inicialmente em arquivos brutos.
 Eles foram **subidos para o banco de dados via Python**, garantindo que cada tabela ficasse disponível de forma padronizada, permitindo as etapas seguintes da arquitetura de dados.
 
 Tabelas e suas relações:
-![Modelo_Banco](Imagens/Modelo_Banco.png)
+<img width="1489" height="716" alt="Modelo_Banco" src="https://github.com/user-attachments/assets/ce3b3030-dacf-435f-b359-d51eb01b0402" />
 
 ---
 
@@ -38,7 +38,7 @@ Foi utilizada a arquitetura **Medalhão (Bronze → Silver → Golden)**, que or
 
 Essa arquitetura garantiu clareza, escalabilidade e facilidade de manutenção.
 
-![Arquitetura](Imagens/Arquitetura_Medalhao.png)
+<img width="1024" height="1024" alt="Arquitetura_Medalhao" src="https://github.com/user-attachments/assets/d161be8e-9ca8-4498-8235-a89da18be123" />
 
 ---
 
@@ -55,7 +55,7 @@ O dashboard foi dividido em **páginas temáticas**:
 Essa estrutura facilitou a navegação e permitiu que cada área tivesse uma visão clara de suas métricas-chave.
 
 O link para o Dashboard: [Link Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmQzMzUzZDctYzNkNC00YTg1LWFmNzItZmY1MmVjZGM3YjJkIiwidCI6IjlkYmYzMjZlLTIxODUtNGM3OC1iY2NhLTBmNTdmOTc4ZjNkYSJ9)
-![Dashboard](Imagens/Dashboard_Delivery.png)
+<img width="1158" height="647" alt="Dashboard_Delivery" src="https://github.com/user-attachments/assets/96d9c1b1-7578-4889-be38-481c6c19d21c" />
 
 ---
 
