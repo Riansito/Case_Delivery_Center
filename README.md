@@ -8,8 +8,8 @@ A empresa precisava responder a perguntas estratégicas de diferentes áreas:
 * **CFO**: Qual a receita média e total por estado?
 * **Marketing**: Quais os 20 entregadores que mais percorreram distância total para bonificação?
 * **Pricing**: Qual a distribuição da distância média percorrida pelos motoboys por estado?
-
-Essas questões exigiam organização e tratamento dos dados para garantir análises consistentes e de fácil consumo pela diretoria.
+  
+Essas questões exigiram organização e tratamento rigoroso dos dados, garantindo análises consistentes, confiáveis e de fácil interpretação pela diretoria. Os insights foram apresentados por meio de gráficos claros e recomendações estratégicas, facilitando a tomada de decisão e estão na pasta **/Insights**.
 
 ---
 
