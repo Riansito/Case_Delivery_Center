@@ -59,7 +59,24 @@ O link para o Dashboard: [Link Dashboard](https://app.powerbi.com/view?r=eyJrIjo
 
 ---
 
-## 5. Importância do Projeto
+## 5. Resumo Executivo do Case
+
+Este case analisou dados operacionais e financeiros para apoiar decisões estratégicas nas frentes de **Marketing, Pricing e CFO**, com foco em **eficiência operacional e crescimento sustentável**.
+
+### 📊 Principais Resultados
+
+* **Tipo de loja**: o segmento **Food** concentra a **maior receita total**, porém com **ticket médio mais baixo**, indicando oportunidade de aumento do valor por pedido. Já o segmento **Good** apresenta **ticket médio elevado**, mas **menor receita total**, sugerindo foco em **expansão da base de clientes**.
+* **Regiões / Estados**: **SP e RJ** lideram em receita e ticket médio, sendo mercados prioritários. **RS e PR** possuem menor participação, mas apresentam potencial de crescimento com estratégias regionais e incentivos.
+* **Logística e Pricing**: diferenças relevantes na **distância média percorrida por estado** indicam a necessidade de **precificação regionalizada**, alinhando custos operacionais à rentabilidade.
+* **Marketing Operacional**: a identificação dos entregadores com maior distância percorrida embasou **ações de bonificação e retenção**, contribuindo para maior eficiência e sustentabilidade da operação.
+
+O projeto evidencia como a **organização, tratamento e visualização dos dados em dashboards** permitem transformar análises em **decisões de negócio claras e acionáveis**. Para todos os inisights, gráficos e recomendações vá na pasta de **/insights**.
+
+
+---
+
+
+## 6. Importância do Projeto
 
 Este projeto demonstrou:
 
